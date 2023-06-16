@@ -11,17 +11,17 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/>
+  <a href="https://discordapp.com/users/740442954765959240" alt="Discord" title="Discord"><img width="32px" src="assets/discord.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/>
+  <a href="https://instagram.com/prakul.agrawal?igshid=MzNlNGNkZWQ4Mg==" alt="Instagram" title="Instagram"><img width="32px" src="assets/instagram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discordapp.com/users/740442954765959240" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://www.linkedin.com/in/prakul-agrawal-570b1927a" alt="LinkedIn" title="LinkedIn"><img width="32px" src="assets/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <!-- <a href="https://discordapp.com/users/740442954765959240" alt="Web" title="Personal Website"> -->
+  <img width="32px" src="assets/website.svg"/>
+  <!-- </a> -->
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  <a href="mailto:prakulagrawal.2003@gmail.com" alt="Gmail" title="Email ID"><img width="32px" src="assets/gmail.svg"/></a>
 </p>
 
 <br/>
