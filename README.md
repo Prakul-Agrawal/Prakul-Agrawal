@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Prakul-Agrawal">
-    <img src="https://github.com/Prakul-Agrawal/Prakul-Agrawal/assets/102694017/ba9956eb-e091-4704-a331-2d1bae20d509" alt="Prakul Agrawal" /></a>
+    <img src="assets/Name.png" alt="Prakul Agrawal" /></a>
 </p>
 
 <p align="center">
