@@ -36,7 +36,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Prakul-Agrawal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-<details open> 
+<details> 
   <summary><h2>📘 My Top Projects</h2></summary>
 
   <!-- Small repo cards - https://github.com/DenverCoder1/github-readme-stats -->
@@ -72,7 +72,7 @@
   <br><br>
 </details>
 
-<details open> 
+<details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -194,7 +194,7 @@
   <img alt="Prakul-Agrawal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Prakul-Agrawal&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
   <br/>
 
-  <b>Note:</b> <h6>"Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
+  <h5> <b>Note:</b> "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h5><br>
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
