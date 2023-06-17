@@ -54,7 +54,7 @@
   <br><br>
 </details>
 
-<details open> 
+<details> 
   <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
 
   <p align="left">
