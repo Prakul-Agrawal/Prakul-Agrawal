@@ -200,16 +200,4 @@
 
   <img alt="Prakul-Agrawal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Prakul-Agrawal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
-  <h3>⚡ Recent GitHub Activity</h3>
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#843](https://github.com/DenverCoder1/custom-icon-badges/pull/843) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-2. 🎉 Merged PR [#218](https://github.com/DenverCoder1/readme-typing-svg/pull/218) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. 🎉 Merged PR [#217](https://github.com/DenverCoder1/readme-typing-svg/pull/217) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. 🎉 Merged PR [#842](https://github.com/DenverCoder1/custom-icon-badges/pull/842) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#840](https://github.com/DenverCoder1/custom-icon-badges/pull/840) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-<!--END_SECTION:activity-->
-
 </details>
