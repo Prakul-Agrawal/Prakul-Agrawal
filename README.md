@@ -36,7 +36,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Prakul-Agrawal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-<details> 
+<details open> 
   <summary><h2>📘 My Top Projects</h2></summary>
 
   <!-- Small repo cards - https://github.com/DenverCoder1/github-readme-stats -->
@@ -72,7 +72,7 @@
   <br><br>
 </details>
 
-<details> 
+<details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Badges are from https://github.com/Ileriayo/markdown-badges -->
 
