@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/prakul-agrawal-570b1927a" alt="LinkedIn" title="LinkedIn"><img width="32px" src="assets/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- <a href="https://discordapp.com/users/740442954765959240" alt="Web" title="Personal Website"> -->
-  <img width="32px" src="assets/website.svg"/>
+  <a href="#"><img width="32px" src="assets/website.svg"/></a>
   <!-- </a> -->
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:prakulagrawal.2003@gmail.com" alt="Gmail" title="Email"><img width="32px" src="assets/gmail.svg"/></a>
