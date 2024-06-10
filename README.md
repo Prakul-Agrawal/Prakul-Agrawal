@@ -41,15 +41,15 @@
 
   <!-- Small repo cards - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/Prakul-Agrawal/MERN-Dairy-Farm-WebApp"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Prakul-Agrawal&repo=MERN-Dairy-Farm-WebApp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MERN-Dairy-Farm-WebApp"></a>
-    <a href="https://github.com/Prakul-Agrawal/C-Shell"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Prakul-Agrawal&repo=C-Shell&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="C-Shell"></a>
-    <a href="https://github.com/Prakul-Agrawal/CSES"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Prakul-Agrawal&repo=CSES&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CSES"></a>
-    <a href="https://github.com/Prakul-Agrawal/Distributed-Network-File-System"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Prakul-Agrawal&repo=Distributed-Network-File-System&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Distributed-Network-File-System"></a>
-    <a href="https://github.com/Prakul-Agrawal/Greddiit"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Prakul-Agrawal&repo=Greddiit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Greddiit"></a>
-    <a href="https://github.com/Prakul-Agrawal/Battleship-and-PacMan"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Prakul-Agrawal&repo=Battleship-and-PacMan&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Battleship-and-PacMan"></a>
-    <a href="https://github.com/Prakul-Agrawal/AoC-2023"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Prakul-Agrawal&repo=AoC-2023&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AoC-2023"></a>
-    <a href="https://github.com/Prakul-Agrawal/Clash-of-Clans"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Prakul-Agrawal&repo=Clash-of-Clans&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Clash-of-Clans"></a>
-    <a href="https://github.com/Prakul-Agrawal/xv6-and-networking"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Prakul-Agrawal&repo=xv6-and-networking&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="xv6-and-networking"></a>
+    <a href="https://github.com/Prakul-Agrawal/MERN-Dairy-Farm-WebApp"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Prakul-Agrawal&repo=MERN-Dairy-Farm-WebApp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false" alt="MERN-Dairy-Farm-WebApp"></a>
+    <a href="https://github.com/Prakul-Agrawal/C-Shell"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Prakul-Agrawal&repo=C-Shell&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false" alt="C-Shell"></a>
+    <a href="https://github.com/Prakul-Agrawal/CSES"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Prakul-Agrawal&repo=CSES&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false" alt="CSES"></a>
+    <a href="https://github.com/Prakul-Agrawal/Distributed-Network-File-System"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Prakul-Agrawal&repo=Distributed-Network-File-System&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false" alt="Distributed-Network-File-System"></a>
+    <a href="https://github.com/Prakul-Agrawal/Greddiit"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Prakul-Agrawal&repo=Greddiit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false" alt="Greddiit"></a>
+    <a href="https://github.com/Prakul-Agrawal/Battleship-and-PacMan"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Prakul-Agrawal&repo=Battleship-and-PacMan&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false" alt="Battleship-and-PacMan"></a>
+    <a href="https://github.com/Prakul-Agrawal/AoC-2023"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Prakul-Agrawal&repo=AoC-2023&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false" alt="AoC-2023"></a>
+    <a href="https://github.com/Prakul-Agrawal/Clash-of-Clans"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Prakul-Agrawal&repo=Clash-of-Clans&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false" alt="Clash-of-Clans"></a>
+    <a href="https://github.com/Prakul-Agrawal/xv6-and-networking"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Prakul-Agrawal&repo=xv6-and-networking&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false" alt="xv6-and-networking"></a>
   </p>
 
   <br>
@@ -57,23 +57,16 @@
   <br><br>
 </details>
 
-<!-- <details> --> 
-<!--  <summary><h2>📕 Top Projects I've Contributed To</h2></summary> --> 
+<details open> 
+  <summary><h2>📘 My Top Contributions</h2></summary>
 
-<!--  <p align="left"> --> 
-<!-- Example for future projects -->
-<!-- <a href="https://github.com/pallets/flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a> -->
-<!--  </p> --> 
-
-<!--  <p align="left"> --> 
-<!--  </p> --> 
-<!--  <br> --> 
-<!-- <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"> -->
-<!--  <a href="#"> --> 
-<!--  <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/> --> 
-<!--  </a> --> 
-<!--  <br><br> --> 
-<!-- </details> --> 
+  <!-- Small repo cards - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/arghyawning/DSA-Spring-24"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arghyawning&repo=DSA-Spring-24&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false&show_description=false" alt="C-Shell"></a>
+    <a href="https://github.com/ujjwal-shekhar/DistributedNetworkFileSystem"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ujjwal-shekhar&repo=DistributedNetworkFileSystem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false&show_description=false" alt="C-Shell"></a>
+    <a href="https://github.com/Arnav-Negi/MERN-dairy-farm-management"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arnav-Negi&repo=MERN-dairy-farm-management&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false&show_description=false" alt="C-Shell"></a>
+  </p>
+</details>
 
 <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
@@ -202,12 +195,5 @@
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="#"><img alt="Prakul-Agrawal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Prakul-Agrawal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-  <!-- <h3>⚡ Recent GitHub Activity</h3> -->
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-  <!--END_SECTION:activity-->
 
 </details>
