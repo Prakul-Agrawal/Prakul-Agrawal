@@ -5,7 +5,7 @@
 
 <p align="center">
   <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Machine%20Learning%20Enthusiast;Competitive%20Programmer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Undergraduate%20Researcher;Machine%20Learning%20Enthusiast;Competitive%20Programmer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </p>
 
 <!-- Social icons section -->
