@@ -154,6 +154,7 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-143?logo=webstorm&logoColor=white&color=black"></a>
       <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
+      <a href="#"><img alt="CLion" src="https://img.shields.io/badge/CLion-black?logo=clion&logoColor=white"></a>
   </p>
 
   <h3>💬 Learning and Coding Platforms</h3>
@@ -161,6 +162,7 @@
   <p>
       <a href="#"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white"></a>
       <a href="#"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"></a>
+      <a href="#"><img alt="AtCoder" src="https://custom-icon-badges.demolab.com/badge/AtCoder-E95420.svg?logo=atcoder&logoColor-white"></a>
       <a href="#"><img alt="Coursera" src="https://img.shields.io/badge/Coursera-%230056D2.svg?logo=Coursera&logoColor=white"></a>
       <a href="#"><img alt="Duolingo" src="https://img.shields.io/badge/Duolingo-%234DC730.svg?logo=Duolingo&logoColor=white"></a>
       <a href="#"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-gray?logo=geeksforgeeks&logoColor=35914c"></a>
