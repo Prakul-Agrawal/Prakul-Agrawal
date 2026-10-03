@@ -3,11 +3,6 @@
     <img src="assets/Name.png" alt="Prakul Agrawal" /></a>
 </p>
 
-<p align="center">
-  <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Undergraduate%20Researcher;Machine%20Learning%20Enthusiast;Competitive%20Programmer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
-</p>
-
 <!-- Social icons section -->
 <p align="center">
   <a href="https://discordapp.com/users/740442954765959240" alt="Discord" title="Discord"><img width="32px" src="assets/discord.svg"/></a>
@@ -15,10 +10,6 @@
   <a href="https://instagram.com/prakul.agrawal?igshid=MzNlNGNkZWQ4Mg==" alt="Instagram" title="Instagram"><img width="32px" src="assets/instagram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/prakul-agrawal-570b1927a" alt="LinkedIn" title="LinkedIn"><img width="32px" src="assets/linkedin.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <!-- <a href="https://discordapp.com/users/740442954765959240" alt="Web" title="Personal Website"> -->
-  <a href="#"><img width="32px" src="assets/website.svg"/></a>
-  <!-- </a> -->
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:prakulagrawal.2003@gmail.com" alt="Gmail" title="Email"><img width="32px" src="assets/gmail.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
